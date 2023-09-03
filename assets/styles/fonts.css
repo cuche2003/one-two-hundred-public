@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Luckiest Guy';
+  src: url('../fonts/LuckiestGuy-Regular.ttf') format('truetype'), cursive;
+}
+
+@font-face {
+  font-family: 'Lobster Two';
+  src: url('../fonts/LobsterTwo-Regular.ttf') format('truetype'), sans-serif;
+}
+
+@font-face {
+  font-family: 'Varela Round';
+  src: url('../fonts/VarelaRound-Regular.ttf') format('truetype'), monospace;
+}
+
+@font-face {
+  font-family: 'MPLUS1Code';
+  src: url('../fonts/MPLUS1Code-Medium.ttf') format('truetype'), monospace;
+}
